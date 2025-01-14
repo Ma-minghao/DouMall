@@ -1,3 +1,4 @@
+```
 go-ecommerce/
 │
 ├── cmd/ # 项目的入口文件
